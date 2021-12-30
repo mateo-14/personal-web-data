@@ -1,5 +1,0 @@
-{
-  "name": "rlgo.store",
-  "description": "Demo App de un servicio para venta y compra de créditos para un videojuego.Cuenta con una autenticación usando la API de Discord y JWT para almacenar la sesión en el cliente. Utiliza como DB Firebase e incluye un bot de Discord que confirma los pedidos y notifica a los administradores.",
-  "tags": ["React", "Next.js", "Tailwindcss", "TypeScript", "JavaScript", "Firebase"]
-}
