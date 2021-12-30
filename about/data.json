@@ -1,0 +1,18 @@
+{
+  "heading": "Un poco de mí...",
+  "subheading": "Desarrollador Full Stack JavaScript",
+  "text": "Hola 👋🏻, mi nombre es Mateo Ledesma, tengo %YEARS% años y soy programador 🧑🏻‍💻.\nSiempre me gustó todo lo relacionado con la ciencia y tecnología, y los videojuegos. Gracias a todo esto, en especial a un videojuego, en 2015 conocí la programación ❤️, y desde ese momento se convirtió en un hobby para mí, superando a los videojuegos.\nLuego, en 2019, me enfoqué en el desarrollo web, comencé con HTML, JavaScript y CSS, y terminé conociendo Node.js y React.js ❤️.\nAdemás de lo comentado anteriormente, he probado otros lenguajes y tecnologías, por simple curiosidad y porque me gusta aprender.\nActualmente estoy estudiando la Tecnicatura Universitaria en Programación y buscando empleo como desarrollador full stack JavaScript.",
+  "skills": [
+    { "name": "JavaScript", "progress": 85 },
+    { "name": "Node.js", "progress": 80 },
+    { "name": "React ❤️", "progress": 80 },
+    { "name": "Next.js", "progress": 80 },
+    { "name": "TypeScript", "progress": 75 },
+    { "name": "HTML", "progress": 80 },
+    { "name": "CSS", "progress": 70 },
+    { "name": "C#", "progress": 75 },
+    { "name": "Java", "progress": 45 },
+    { "name": "Golang", "progress": 40 },
+    { "name": "Git", "progress": 14 }
+  ]
+}
