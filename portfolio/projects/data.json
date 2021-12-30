@@ -20,7 +20,7 @@
       "name": "Weather APP",
       "description": "App para ver el tiempo utlizando OpenWeather API.\nMuestra el tiempo de tu ubicación y cuenta con un buscador de ciudades.",
       "tags": ["Vue", "Vuetify"],
-      "images": ["weather/weather-app_1.jpeg"],
+      "images": ["weather-app/weather-app_1.jpeg"],
       "link": "https://mateo-14.github.io/clima/",
       "repo": "https://github.com/mateo-14/clima"
     }
