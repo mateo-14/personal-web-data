@@ -11,8 +11,18 @@
       "repo": "https://github.com/mateo-14/rlcr-frontend"
     },
     {
+      "name": "Web personal",
+      "description": "Web de uso personal con contenido dinámico. Creada específicamente para presentarme y mostrar mis conocimientos.",
+      "tags": ["React", "Next.js", "Tailwindcss", "Axios"],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
+      ],
+      "link": "https://rlgo.store",
+      "repo": "https://github.com/mateo-14/rlcr-frontend"
+    },
+    {
       "name": "REST Countries Frontend",
-      "description": "Challenge pertenciente a frontendmentor.io.\nConsume la API restcountries.com y muestra las banderas de los países. Esta web cuenta con un buscador, un filtro por regiones y un theme switcher (dark mode y light mode)\nUsa React Query para cachear los resultados.",
+      "description": "Challenge de frontendmentor.io.\nConsume la API restcountries.com y muestra las banderas de los países. Esta web cuenta con un buscador, un filtro por regiones y un theme switcher (dark mode y light mode)\nUsa React Query para cachear los resultados.",
       "tags": ["React", "CSS", "React Router", "React Query", "JavaScript", "Axios"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rest-countries/rest-countries_1.jpeg"
@@ -22,7 +32,7 @@
     },
     {
       "name": "Weather APP",
-      "description": "App para ver el tiempo utlizando OpenWeather API.\nMuestra el tiempo de tu ubicación y cuenta con un buscador de ciudades.",
+      "description": "App para ver el tiempo utilizando OpenWeather API.\nMuestra el tiempo de tu ubicación y cuenta con un buscador de ciudades.",
       "tags": ["Vue", "Vuetify"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/weather-app/weather-app_1.jpeg"
