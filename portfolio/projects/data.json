@@ -5,7 +5,7 @@
       "description": "Demo App de un servicio para venta y compra de créditos para un videojuego.\nCuenta con una autenticación usando la API de Discord y JWT para almacenar la sesión en el cliente. Utiliza como DB Firebase e incluye un bot de Discord que confirma los pedidos y notifica a los administradores.",
       "tags": ["React", "Next.js", "Tailwindcss", "TypeScript", "JavaScript", "Firebase", "Axios"],
       "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/images/rlgo/rlgo.store_1.jpeg"
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
       ],
       "link": "https://rlgo.store",
       "repo": "https://github.com/mateo-14/rlcr-frontend"
@@ -15,7 +15,7 @@
       "description": "Challenge pertenciente a frontendmentor.io.\nConsume la API restcountries.com y muestra las banderas de los países. Esta web cuenta con un buscador, un filtro por regiones y un theme switcher (dark mode y light mode)\nUsa React Query para cachear los resultados.",
       "tags": ["React", "CSS", "React Router", "React Query", "JavaScript", "Axios"],
       "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/images/rest-countries/rest-countries_1.jpeg"
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rest-countries/rest-countries_1.jpeg"
       ],
       "link": "https://mateo-14.github.io/react-rest-countries/",
       "repo": "https://github.com/mateo-14/react-rest-countries"
@@ -25,7 +25,7 @@
       "description": "App para ver el tiempo utlizando OpenWeather API.\nMuestra el tiempo de tu ubicación y cuenta con un buscador de ciudades.",
       "tags": ["Vue", "Vuetify"],
       "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/images/weather-app/weather-app_1.jpeg"
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/weather-app/weather-app_1.jpeg"
       ],
       "link": "https://mateo-14.github.io/clima/",
       "repo": "https://github.com/mateo-14/clima"
