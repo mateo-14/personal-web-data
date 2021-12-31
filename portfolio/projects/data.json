@@ -12,13 +12,13 @@
     },
     {
       "name": "Web personal",
-      "description": "Web de uso personal con contenido dinámico. Creada específicamente para presentarme y mostrar mis conocimientos.",
+      "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, una sección con mis habilidades técnicas, un formulario de contacto y una página con algunos de mis proyectos realizados.",
       "tags": ["React", "Next.js", "Tailwindcss", "Axios"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
       ],
-      "link": "https://rlgo.store",
-      "repo": "https://github.com/mateo-14/rlcr-frontend"
+      "link": "hhttps://mateoledesma.netlify.app/",
+      "repo": "https://github.com/mateo-14/me"
     },
     {
       "name": "REST Countries Frontend",
