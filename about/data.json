@@ -14,5 +14,6 @@
     { "name": "Java", "progress": 45 },
     { "name": "Golang", "progress": 40 },
     { "name": "Git", "progress": 14 }
-  ]
+  ],
+  "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
