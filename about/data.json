@@ -11,9 +11,9 @@
     { "name": "HTML", "progress": 80 },
     { "name": "CSS", "progress": 70 },
     { "name": "C#", "progress": 75 },
-    { "name": "Java", "progress": 45 },
+    { "name": "Java", "progress": 60 },
     { "name": "Golang", "progress": 40 },
-    { "name": "Git", "progress": 14 }
+    { "name": "Git", "progress": 24 }
   ],
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
