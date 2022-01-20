@@ -17,7 +17,7 @@
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
       ],
-      "link": "hhttps://mateoledesma.netlify.app/",
+      "link": "hhttps://mateoledesma.netlify.app",
       "repo": "https://github.com/mateo-14/me"
     },
     {
@@ -27,8 +27,18 @@
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rest-countries/rest-countries_1.jpeg"
       ],
-      "link": "https://mateo-14.github.io/react-rest-countries/",
+      "link": "https://mateo-14.github.io/react-rest-countries",
       "repo": "https://github.com/mateo-14/react-rest-countries"
+    },
+    {
+      "name": "ParanaDev",
+      "description": "Demo Landing page de ParanaDev, una startup para ofrecer servicios de desarrollo web y de software.",
+      "tags": ["HTML", "CSS", "JavaScript", "Webpack", "Babel", "SASS"],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/paranadev/paranadev.jpeg"
+      ],
+      "link": "https://nifty-pare-e70c12.netlify.app",
+      "repo": "https://github.com/mateo-14/paranadev"
     },
     {
       "name": "Weather APP",
@@ -37,7 +47,7 @@
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/weather-app/weather-app_1.jpeg"
       ],
-      "link": "https://mateo-14.github.io/clima/",
+      "link": "https://mateo-14.github.io/clima",
       "repo": "https://github.com/mateo-14/clima"
     }
   ]
