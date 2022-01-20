@@ -13,9 +13,14 @@
     { "name": "C#", "progress": 75 },
     { "name": "Java", "progress": 60 },
     { "name": "Golang", "progress": 45 },
-    { "name": "Git", "progress": 24 },
-    { "name": "Flutter", "progress": 60 },
-    { "name": "Dart", "progress": 45 }
+    { "name": "Git", "progress": 40 },
+    { "name": "SQL", "progress": 45},
+    { "name": "Mongoose", "progress": 60 },
+    { "name": "Sequelize", "progress": 50 },
+    { "name": "Prisma", "progress": 55 },
+    { "name": "TypeORM", "progress": 45 },
+    { "name": "Dart", "progress": 45 },
+    { "name": "Flutter", "progress": 60 }
   ],
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
