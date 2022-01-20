@@ -15,10 +15,8 @@
     { "name": "Golang", "progress": 45 },
     { "name": "Git", "progress": 40 },
     { "name": "SQL", "progress": 45},
-    { "name": "Mongoose", "progress": 60 },
-    { "name": "Sequelize", "progress": 50 },
-    { "name": "Prisma", "progress": 55 },
-    { "name": "TypeORM", "progress": 45 },
+    { "name": "MongoDB (Mongoose)", "progress": 60 },
+    { "name": "ORM (Sequelize, Prisma, TypeORM)", "progress": 60 },
     { "name": "Dart", "progress": 45 },
     { "name": "Flutter", "progress": 60 }
   ],
