@@ -32,7 +32,7 @@
     },
     {
       "name": "ParanaDev",
-      "description": "Demo Landing page de ParanaDev, una startup para ofrecer servicios de desarrollo web y de software.",
+      "description": "Landing Page demo de ParanaDev, una startup para ofrecer servicios de desarrollo web y de software.",
       "tags": ["HTML", "CSS", "JavaScript", "Webpack", "Babel", "SASS"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/paranadev/paranadev.jpeg"
