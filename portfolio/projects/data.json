@@ -41,6 +41,16 @@
       "repo": "https://github.com/mateo-14/paranadev"
     },
     {
+      "name": "CV",
+      "description": "Mi CV diseñado con tecnologías web. Opté por hacerlo de esa forma porque tengo más libertad a la hora de diseñar y posicionar los elementos.",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/cv/cv.jpeg"
+      ],
+      "link": "https://github.com/mateo-14/cv",
+      "repo": "https://github.com/mateo-14/cv"
+    },
+    {
       "name": "Weather APP",
       "description": "App para ver el tiempo utilizando OpenWeather API.\nMuestra el tiempo de tu ubicación y cuenta con un buscador de ciudades.",
       "tags": ["Vue", "Vuetify"],
