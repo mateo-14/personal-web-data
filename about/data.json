@@ -8,21 +8,21 @@
       "name": "JavaScript",
       "icon": "javascript.svg"
     },
-    { "name": "Node.js", "icon": "node" },
-    { "name": "React ❤️", "icon": "react" },
-    { "name": "Next.js", "icon": "next" },
-    { "name": "TypeScript", "icon": "typescript" },
-    { "name": "HTML", "icon": "html" },
-    { "name": "CSS", "icon": "css" },
-    { "name": "C#", "icon": "csharp" },
-    { "name": "Java", "icon": "java" },
-    { "name": "Golang", "icon": "go" },
-    { "name": "Git", "icon": "git" },
+    { "name": "Node.js", "icon": "node.svg" },
+    { "name": "React ❤️", "icon": "react.svg" },
+    { "name": "Next.js", "icon": "next.svg" },
+    { "name": "TypeScript", "icon": "typescript.svg" },
+    { "name": "HTML", "icon": "html.svg" },
+    { "name": "CSS", "icon": "css.svg" },
+    { "name": "C#", "icon": "csharp.svg" },
+    { "name": "Java", "icon": "java.svg" },
+    { "name": "Golang", "icon": "go.svg" },
+    { "name": "Git", "icon": "git.svg" },
     { "name": "MongoDB (Mongoose)", "icon": "mongo.db" },
     { "name": "Base de datos relacionales (PostgreSQL, MySQL, SQLite)", "icon": "db.svg"},
     { "name": "ORMs (Sequelize, Prisma, TypeORM)", "icon": "sequelize.svg" },
-    { "name": "Dart", "icon": "dart" },
-    { "name": "Flutter", "icon": "flutter" }
+    { "name": "Dart", "icon": "dart.svg" },
+    { "name": "Flutter", "icon": "flutter.svg" }
   ],
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
