@@ -3,22 +3,25 @@
   "subheading": "Amante de la programación ❤️ Desarrollador Full Stack JavaScript",
   "text": "Hola 👋🏻. Me llamo Mateo, tengo 21 años, y sí... soy amante de la programación, una de las mejores cosas que conocí gracias a un videojuego en 2015 —sí, también me encantan los videojuegos—. Potenció mi curiosidad y mis ganas de aprender, formando el combo perfecto. Cambió mi forma de pensar y de ver el mundo.\nCon el paso del tiempo, comencé a aprender otros lenguajes, como por ejemplo, C#, Java, C++, Go, Python, Dart. En 2019 decidí especializarme en el desarrollo web de manera autodidacta, comencé con mis primeras webs con HTML, CSS y JavaScrip, y conocí React.js 💙, Vue, Angular, Node.js, Express, NestJS, Next.js. Ah... y también hice un poco de desarrollo móvil.\nAl día de hoy puedo decir que mi fuerte y lo que más me gusta es el desarrollo web Full Stack (Frontend + Backend), utilizando React, Next.js y Node.js.",
   "skills": [
-    { "name": "JavaScript", "progress": 85 },
-    { "name": "Node.js", "progress": 80 },
-    { "name": "React ❤️", "progress": 80 },
-    { "name": "Next.js", "progress": 80 },
-    { "name": "TypeScript", "progress": 75 },
-    { "name": "HTML", "progress": 80 },
-    { "name": "CSS", "progress": 70 },
-    { "name": "C#", "progress": 75 },
-    { "name": "Java", "progress": 60 },
-    { "name": "Golang", "progress": 45 },
-    { "name": "Git", "progress": 40 },
-    { "name": "SQL", "progress": 45},
-    { "name": "MongoDB (Mongoose)", "progress": 60 },
-    { "name": "ORM (Sequelize, Prisma, TypeORM)", "progress": 60 },
-    { "name": "Dart", "progress": 45 },
-    { "name": "Flutter", "progress": 60 }
+    {
+      "name": "JavaScript",
+      "icon": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/assets/icons/javascript.svg"
+    },
+    { "name": "Node.js", "icon": "" },
+    { "name": "React ❤️", "icon": "" },
+    { "name": "Next.js", "icon": "" },
+    { "name": "TypeScript", "icon": "" },
+    { "name": "HTML", "icon": "" },
+    { "name": "CSS", "icon": "" },
+    { "name": "C#", "icon": "" },
+    { "name": "Java", "icon": "" },
+    { "name": "Golang", "icon": "" },
+    { "name": "Git", "icon": "" },
+    { "name": "SQL", "icon": "" },
+    { "name": "MongoDB (Mongoose)", "icon": "" },
+    { "name": "ORM (Sequelize, Prisma, TypeORM)", "icon": "" },
+    { "name": "Dart", "icon": "" },
+    { "name": "Flutter", "icon": "" }
   ],
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
