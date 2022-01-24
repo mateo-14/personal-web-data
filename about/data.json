@@ -18,7 +18,7 @@
     { "name": "Java", "icon": "java.svg" },
     { "name": "Golang", "icon": "go.svg" },
     { "name": "Git", "icon": "git.svg" },
-    { "name": "MongoDB (Mongoose)", "icon": "mongo.db" },
+    { "name": "MongoDB (Mongoose)", "icon": "mongo.svg" },
     { "name": "Base de datos relacionales (PostgreSQL, MySQL, SQLite)", "icon": "db.svg"},
     { "name": "ORMs (Sequelize, Prisma, TypeORM)", "icon": "sequelize.svg" },
     { "name": "Dart", "icon": "dart.svg" },
