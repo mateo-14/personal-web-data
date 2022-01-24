@@ -3,7 +3,18 @@
     {
       "name": "rlgo.store",
       "description": "Demo App de un servicio para venta y compra de créditos para un videojuego.\nCuenta con una autenticación usando la API de Discord y JWT para almacenar la sesión en el cliente. Utiliza como DB Firebase e incluye un bot de Discord que confirma los pedidos y notifica a los administradores.",
-      "tags": ["React", "Next.js", "Tailwindcss", "TypeScript", "JavaScript", "Firebase", "Axios", "Express", "Node.js", "JWT"],
+      "tags": [
+        "React",
+        "Next.js",
+        "Tailwindcss",
+        "TypeScript",
+        "JavaScript",
+        "Firebase",
+        "Axios",
+        "Express",
+        "Node.js",
+        "JWT"
+      ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
       ],
@@ -13,7 +24,7 @@
     {
       "name": "Web personal",
       "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, una sección con mis habilidades técnicas, un formulario de contacto y una página con algunos de mis proyectos realizados.",
-      "tags": ["React", "Next.js", "Tailwindcss", "Axios"],
+      "tags": ["JavaScript", "React", "Next.js", "Tailwindcss", "Axios"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
       ],
@@ -53,12 +64,22 @@
     {
       "name": "Weather APP",
       "description": "App para ver el tiempo utilizando OpenWeather API.\nMuestra el tiempo de tu ubicación y cuenta con un buscador de ciudades.",
-      "tags": ["Vue", "Vuetify"],
+      "tags": ["JavaScript", "Vue", "Vuetify"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/weather-app/weather-app_1.jpeg"
       ],
       "link": "https://mateo-14.github.io/clima",
       "repo": "https://github.com/mateo-14/clima"
+    },
+    {
+      "name": "Alkemy Full Stack challenge",
+      "description": "Challenge con el cuál ingresé a la aceleración de Alkemy.Es una app full stack para control de gastos, fue realizada con React, Node y Sequelize.\nEl backend cuenta con tests sobre las APIs, que fueron desarrolladas utilizando TDD con Jest y supertest.",
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/alkemy-challenge/alkemy-challenge.jpeg"
+      ],
+      "link": "https://sad-hoover-6129f3.netlify.app",
+      "repo": "https://github.com/mateo-14/alkemy-fullstack-challenge",
+      "tags": ["JavaScript", "React", "Node.js", "Express", "Sequelize", "Jest", "Supertest", "TDD", "Tailwindcss", "Axios"]
     }
   ]
 }
