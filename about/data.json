@@ -6,23 +6,28 @@
   "skills": [
     {
       "name": "JavaScript",
-      "icon": "javascript.svg"
+      "icon": "javascript.svg",
+      "progress": 85
     },
-    { "name": "Node.js", "icon": "node.svg" },
-    { "name": "React ❤️", "icon": "react.svg" },
-    { "name": "Next.js", "icon": "next.svg" },
-    { "name": "TypeScript", "icon": "typescript.svg" },
-    { "name": "HTML", "icon": "html.svg" },
-    { "name": "CSS", "icon": "css.svg" },
-    { "name": "C#", "icon": "csharp.svg" },
-    { "name": "Java", "icon": "java.svg" },
-    { "name": "Golang", "icon": "go.svg" },
-    { "name": "Git", "icon": "git.svg" },
-    { "name": "MongoDB (Mongoose)", "icon": "mongo.svg" },
-    { "name": "Base de datos relacionales (PostgreSQL, MySQL, SQLite)", "icon": "db.svg"},
-    { "name": "ORMs (Sequelize, Prisma, TypeORM)", "icon": "sequelize.svg" },
-    { "name": "Dart", "icon": "dart.svg" },
-    { "name": "Flutter", "icon": "flutter.svg" }
+    { "name": "Node.js", "icon": "node.svg", "progress": 80 },
+    { "name": "React ❤️", "icon": "react.svg", "progress": 80 },
+    { "name": "Next.js", "icon": "next.svg", "progress": 80 },
+    { "name": "TypeScript", "icon": "typescript.svg", "progress": 75 },
+    { "name": "HTML", "icon": "html.svg", "progress": 80 },
+    { "name": "CSS", "icon": "css.svg", "progress": 70 },
+    { "name": "C#", "icon": "csharp.svg", "progress": 75 },
+    { "name": "Java", "icon": "java.svg", "progress": 60 },
+    { "name": "Golang", "icon": "go.svg", "progress": 45 },
+    { "name": "Git", "icon": "git.svg", "progress": 40 },
+    { "name": "MongoDB (Mongoose)", "icon": "mongo.svg", "progress": 65 },
+    {
+      "name": "Base de datos relacionales (PostgreSQL, MySQL, SQLite)",
+      "icon": "db.svg",
+      "progress": 60
+    },
+    { "name": "ORMs (Sequelize, Prisma, TypeORM)", "icon": "sequelize.svg", "progress": 65 },
+    { "name": "Dart", "icon": "dart.svg", "progress": 45 },
+    { "name": "Flutter", "icon": "flutter.svg", "progress": 60 }
   ],
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
