@@ -52,8 +52,18 @@
       "repo": "https://github.com/mateo-14/paranadev"
     },
     {
+      "name": "Alkemy Full Stack challenge",
+      "description": "Challenge con el cuál ingresé a la aceleración de Alkemy. Es una app full stack para control de gastos, fue realizada con React, Node y Sequelize.\nEl backend cuenta con tests sobre las APIs, que fueron desarrolladas utilizando TDD con Jest y supertest.",
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/alkemy-challenge/alkemy-challenge.jpeg"
+      ],
+      "link": "https://sad-hoover-6129f3.netlify.app",
+      "repo": "https://github.com/mateo-14/alkemy-fullstack-challenge",
+      "tags": ["JavaScript", "React", "Node.js", "Express", "Sequelize", "Jest", "Supertest", "TDD", "Tailwindcss", "Axios"]
+    },
+    {
       "name": "CV",
-      "description": "Mi CV diseñado con tecnologías web. Opté por hacerlo de esa forma porque tengo más libertad a la hora de diseñar y posicionar los elementos.",
+      "description": "Mi CV diseñado con tecnologías web. Opté por hacerlo de esa forma ya que tengo más libertad a la hora de diseñar.",
       "tags": ["HTML", "CSS", "JavaScript"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/cv/cv.jpg"
@@ -71,15 +81,5 @@
       "link": "https://mateo-14.github.io/clima",
       "repo": "https://github.com/mateo-14/clima"
     },
-    {
-      "name": "Alkemy Full Stack challenge",
-      "description": "Challenge con el cuál ingresé a la aceleración de Alkemy.Es una app full stack para control de gastos, fue realizada con React, Node y Sequelize.\nEl backend cuenta con tests sobre las APIs, que fueron desarrolladas utilizando TDD con Jest y supertest.",
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/alkemy-challenge/alkemy-challenge.jpeg"
-      ],
-      "link": "https://sad-hoover-6129f3.netlify.app",
-      "repo": "https://github.com/mateo-14/alkemy-fullstack-challenge",
-      "tags": ["JavaScript", "React", "Node.js", "Express", "Sequelize", "Jest", "Supertest", "TDD", "Tailwindcss", "Axios"]
-    }
   ]
 }
