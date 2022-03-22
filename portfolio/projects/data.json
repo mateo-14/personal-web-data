@@ -19,7 +19,8 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
       ],
       "link": "https://rlgo.store",
-      "repo": "https://github.com/mateo-14/rlcr-frontend"
+      "repo": "https://github.com/mateo-14/rlcr-frontend",
+      "featured": true
     },
     {
       "name": "Web personal",
@@ -29,7 +30,8 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
       ],
       "link": "hhttps://mateoledesma.netlify.app",
-      "repo": "https://github.com/mateo-14/me"
+      "repo": "https://github.com/mateo-14/me",
+      "featured": true
     },
     {
       "name": "REST Countries Frontend",
@@ -70,7 +72,8 @@
         "TDD",
         "Tailwindcss",
         "Axios"
-      ]
+      ],
+      "featured": true
     },
     {
       "name": "Weather APP",
