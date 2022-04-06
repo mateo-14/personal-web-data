@@ -1,7 +1,7 @@
 {
   "heading": "Un poco de mí...",
-  "subheading": "Desarrollador Full Stack ❤️",
-  "text": "Hola 👋🏻. Me llamo Mateo, tengo 21 años, soy desarrollador Full Stack y me encanta programar.\nConocí el mundo de la programación en 2015, gracias a un videojuego —sí, también me encantan los videojuegos—, y desde ese momento me mantuve aprendiendo e investigando temas relacionados con la ciencia y tecnología. La programación cambió mi forma de pensar y potenció mi curiosidad y mis ganas de aprender.\nDespués de aventurarme por distintos lenguajes de programación, desarrollo web y de aplicaciones móviles, puedo decir que mi fuerte y lo que más me gusta es el desarrollo web Full Stack (Frontend + Backend), utilizando React 💙, Next.js y Node.js.\n🔍💼 Actualmente estoy en busca de un empleo como desarrollador web Backend y/o Frontend, donde pueda aportar mis conocimientos, afrontar desafíos y continuar aprendiendo.",
+  "subheading": "Desarrollador JavaScript",
+  "text": "Hola 👋🏻. Me llamo Mateo, tengo 21 años y soy desarrollador especializado en JavaScript.\nConocí el mundo de la programación en 2015, gracias a un videojuego —sí, también me encantan los videojuegos—, y desde ese momento me mantuve aprendiendo e investigando temas relacionados con la ciencia y tecnología. La programación cambió mi forma de pensar y potenció mi curiosidad y mis ganas de aprender.\nDespués de aventurarme por distintos lenguajes de programación, desarrollo web y de aplicaciones móviles puedo decir que mi fuerte y lo que más me gusta es el desarrollo web Full Stack (Frontend y Backend), utilizando el stack React 💙 + Node.js + Next.js.\n🔍💼 Actualmente estoy en busca de un empleo como desarrollador web Backend y/o Frontend, donde pueda aportar mis conocimientos, afrontar desafíos y continuar aprendiendo.",
   "assetsURL": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/assets",
   "skills": [
     {
@@ -10,24 +10,18 @@
       "progress": 85
     },
     { "name": "Node.js", "icon": "node.svg", "progress": 80 },
-    { "name": "React ❤️", "icon": "react.svg", "progress": 80 },
+    { "name": "React", "icon": "react.svg", "progress": 80 },
     { "name": "Next.js", "icon": "next.svg", "progress": 80 },
     { "name": "TypeScript", "icon": "typescript.svg", "progress": 75 },
     { "name": "HTML", "icon": "html.svg", "progress": 80 },
     { "name": "CSS", "icon": "css.svg", "progress": 70 },
-    { "name": "C#", "icon": "csharp.svg", "progress": 75 },
-    { "name": "Java", "icon": "java.svg", "progress": 60 },
-    { "name": "Golang", "icon": "go.svg", "progress": 45 },
+    { "name": "C# y .NET", "icon": "csharp.svg", "progress": 75 },
     { "name": "Git", "icon": "git.svg", "progress": 40 },
-    { "name": "MongoDB (Mongoose)", "icon": "mongo.svg", "progress": 65 },
     {
-      "name": "Base de datos relacionales (PostgreSQL, MySQL, SQLite)",
+      "name": "DBs y ORMs (MongoDB, PostgreSQL, MySQL, SQLite, Sequelize, Prisma)",
       "icon": "db.svg",
       "progress": 60
-    },
-    { "name": "ORMs (Sequelize, Prisma, TypeORM)", "icon": "sequelize.svg", "progress": 65 },
-    { "name": "Dart", "icon": "dart.svg", "progress": 45 },
-    { "name": "Flutter", "icon": "flutter.svg", "progress": 60 }
+    }
   ],
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
