@@ -1,8 +1,8 @@
 ## Sobre mí
 
-Me llamo Mateo, tengo 21 años y soy desarrollador JavaScript desde 2019. Soy una persona muy curiosa y apasionada de la informática y de aprender. Desde el año 2015 estoy en el mundo de la programación y actualmente sigo estudiando y aprendiendo todo lo relacionado con este mundo.
+Me llamo Mateo, tengo 21 años y soy desarrollador JavaScript desde 2019. Soy una persona muy curiosa y apasionada de la informática y de aprender. Desde el año 2015 estoy en el mundo de la programación, y continuo estudiando y aprendiendo todo lo relacionado con este mundo.
 
-Estoy en busca de mi primer empleo como desarrollador, donde pueda afrontar desafíos, aportar mis conocimientos y continuar aprendiendo.
+Actualmente estoy en busca de mi primer empleo como desarrollador, donde pueda afrontar desafíos, aportar mis conocimientos y continuar aprendiendo.
 
 ## Proyectos
 
