@@ -1,6 +1,17 @@
 {
   "projects": [
     {
+      "name": "Simple Chat",
+      "description": "Chat simple en tiempo real. Realizado con React y Node.js, utilizando WebSockets para el transporte de los mensajes.",
+      "tags": ["JavaScript", "React", "Vite", "CSS", "Redux", "Redux Toolkit", "WebSockets", "JWT", "Node.js", "Express"],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/chat/chat.jpeg"
+      ],
+      "link": "https://mateo-14.github.io/react-node-chat-frontend/",
+      "repo": "https://github.com/mateo-14/react-node-chat-backend",
+      "featured": true
+    },
+    {
       "name": "rlgo.store",
       "description": "Demo App de un servicio para venta y compra de créditos para un videojuego.\nCuenta con una autenticación usando la API de Discord y JWT para almacenar la sesión en el cliente. Utiliza como DB Firebase e incluye un bot de Discord que confirma los pedidos y notifica a los administradores.",
       "tags": [
@@ -23,37 +34,6 @@
       "featured": true
     },
     {
-      "name": "Web personal",
-      "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, una sección con mis habilidades técnicas, un formulario de contacto y una página con algunos de mis proyectos realizados.",
-      "tags": ["JavaScript", "React", "Next.js", "Tailwindcss", "Axios"],
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
-      ],
-      "link": "https://mateoledesma.vercel.app",
-      "repo": "https://github.com/mateo-14/me",
-      "featured": true
-    },
-    {
-      "name": "REST Countries Frontend",
-      "description": "Challenge de frontendmentor.io.\nConsume la API restcountries.com y muestra las banderas de los países. Esta web cuenta con un buscador, un filtro por regiones y un theme switcher (dark mode y light mode)\nUsa React Query para cachear los resultados.",
-      "tags": ["React", "CSS", "React Router", "React Query", "JavaScript", "Axios"],
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rest-countries/rest-countries_1.jpeg"
-      ],
-      "link": "https://mateo-14.github.io/react-rest-countries",
-      "repo": "https://github.com/mateo-14/react-rest-countries"
-    },
-    {
-      "name": "ParanaDev",
-      "description": "Landing Page demo de ParanaDev, una startup para ofrecer servicios de desarrollo web y de software.",
-      "tags": ["HTML", "CSS", "JavaScript", "Webpack", "Babel", "SASS"],
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/paranadev/paranadev.jpeg"
-      ],
-      "link": "https://nifty-pare-e70c12.netlify.app",
-      "repo": "https://github.com/mateo-14/paranadev"
-    },
-    {
       "name": "Alkemy Full Stack challenge",
       "description": "Challenge con el cuál ingresé a la aceleración de Alkemy. Es una app full stack para control de gastos, fue realizada con React, Node y Sequelize.\nEl backend cuenta con tests sobre las APIs, que fueron desarrolladas utilizando TDD con Jest y supertest.",
       "images": [
@@ -74,6 +54,36 @@
         "Axios"
       ],
       "featured": true
+    },
+    {
+      "name": "Web personal",
+      "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, una sección con mis habilidades técnicas, un formulario de contacto y una página con algunos de mis proyectos realizados.",
+      "tags": ["JavaScript", "React", "Next.js", "Tailwindcss", "Axios"],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
+      ],
+      "link": "https://mateoledesma.vercel.app",
+      "repo": "https://github.com/mateo-14/me"
+    },
+    {
+      "name": "REST Countries Frontend",
+      "description": "Challenge de frontendmentor.io.\nConsume la API restcountries.com y muestra las banderas de los países. Esta web cuenta con un buscador, un filtro por regiones y un theme switcher (dark mode y light mode)\nUsa React Query para cachear los resultados.",
+      "tags": ["React", "CSS", "React Router", "React Query", "JavaScript", "Axios"],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rest-countries/rest-countries_1.jpeg"
+      ],
+      "link": "https://mateo-14.github.io/react-rest-countries",
+      "repo": "https://github.com/mateo-14/react-rest-countries"
+    },
+    {
+      "name": "ParanaDev",
+      "description": "Landing Page demo de ParanaDev, una startup para ofrecer servicios de desarrollo web y de software.",
+      "tags": ["HTML", "CSS", "JavaScript", "Webpack", "Babel", "SASS"],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/paranadev/paranadev.jpeg"
+      ],
+      "link": "https://nifty-pare-e70c12.netlify.app",
+      "repo": "https://github.com/mateo-14/paranadev"
     },
     {
       "name": "Weather APP",
