@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Instagram Clon (In progress)",
-      "description": "Clon de la versión web de Instagram.",
+      "description": "Clon de la versión web de Instagram. Actualmente se encuentra en desarrollo pero cuenta con las características básicas finalizadas.",
       "tags": [
         "JavaScript",
         "React",
@@ -22,7 +22,7 @@
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/instagram/instagram.jpeg"
       ],
-      "link": "velvety-pavlova-68ffe7.netlify.app",
+      "link": "https://velvety-pavlova-68ffe7.netlify.app",
       "repo": "https://github.com/mateo-14/instagram-clon-backend",
       "featured": true
     },
@@ -46,8 +46,7 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/chat/chat.jpeg"
       ],
       "link": "https://mateo-14.github.io/react-node-chat-frontend/",
-      "repo": "https://github.com/mateo-14/react-node-chat-backend",
-      "featured": true
+      "repo": "https://github.com/mateo-14/react-node-chat-backend"
     },
     {
       "name": "rlgo.store",
