@@ -1,9 +1,46 @@
 {
   "projects": [
     {
+      "name": "Instagram Clon (In progress)",
+      "description": "Clon de la versión web de Instagram.",
+      "tags": [
+        "JavaScript",
+        "React",
+        "Vite",
+        "CSS",
+        "React Query",
+        "Axios",
+        "JWT",
+        "Node.js",
+        "Express",
+        "TypeScript",
+        "PostgreSQL",
+        "Prisma ORM",
+        "Heroku"
+      ],
+      "images": [
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/instagram/instagram.jpeg"
+      ],
+      "link": "velvety-pavlova-68ffe7.netlify.app",
+      "repo": "https://github.com/mateo-14/instagram-clon-backend",
+      "featured": true
+    },
+    {
       "name": "Simple Chat",
       "description": "Chat simple en tiempo real. Realizado con React y Node.js, utilizando WebSockets para el transporte de los mensajes.",
-      "tags": ["JavaScript", "React", "Vite", "CSS", "Redux", "Redux Toolkit", "WebSockets", "JWT", "Node.js", "Express"],
+      "tags": [
+        "JavaScript",
+        "React",
+        "Vite",
+        "CSS",
+        "Redux",
+        "Redux Toolkit",
+        "WebSockets",
+        "JWT",
+        "Node.js",
+        "Express",
+        "Heroku"
+      ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/chat/chat.jpeg"
       ],
@@ -24,7 +61,8 @@
         "Axios",
         "Express",
         "Node.js",
-        "JWT"
+        "JWT",
+        "Heroku"
       ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
@@ -51,7 +89,8 @@
         "Supertest",
         "TDD",
         "Tailwindcss",
-        "Axios"
+        "Axios",
+        "Heroku"
       ],
       "featured": true
     },
