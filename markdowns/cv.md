@@ -1,6 +1,7 @@
 ## Sobre mí
 
 Soy una persona muy curiosa, independiente, detallista y responsable. 
+
 Me gusta aprender, ayudar a los demás y trabajar en equipo. 
 
 ## Proyectos
