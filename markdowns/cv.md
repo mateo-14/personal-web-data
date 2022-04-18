@@ -1,8 +1,9 @@
 ## Sobre mí
 
-Soy una persona muy curiosa, independiente, detallista y responsable. 
+Soy una persona muy curiosa, independiente, detallista y responsable. Me encanta aprender, ayudar a los demás y trabajar en equipo.
 
-Me gusta aprender, ayudar a los demás y trabajar en equipo. 
+Comencé a programar en el año 2015 y desde el año 2019 me dedico al desarrollo web.
+Actualmente, sigo aprendiendo de forma autodidacta y busco dedicarme profesionalmente al desarrollo web.
 
 ## Proyectos
 
@@ -25,7 +26,7 @@ Me gusta aprender, ayudar a los demás y trabajar en equipo.
 
 Mi principal objetivo es conseguir un empleo como desarrollador web (Frontend y/o Backend), donde pueda aportar mis conocimientos e ideas, ayudar a los demás y seguir mejorando mis habilidades.
 
-Otro de mis objetivos es conseguir un nivel de inglés avanzado, por lo que actualmente estoy estudiando para lograrlo.
+También busco tener un nivel de inglés avanzado para tener más oportunidades. 
 
 ## Idiomas
 
