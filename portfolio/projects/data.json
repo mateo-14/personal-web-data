@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Instagram Clon (In progress)",
-      "description": "Clon de la versión web de Instagram. Actualmente se encuentra en desarrollo pero cuenta con las características básicas finalizadas.",
+      "name": "Instagram Clon",
+      "description": "Clon de la versión web de Instagram. Utiliza React en el Frontend, Node.js en el Backend. También se utilizó React Query para manejar el estado de la aplicación, el cual se cachea y actualiza constantemente. Debido a que gran parte del estado proviene del Backend opté por usar React Query antes que una librería como Redux para el manejo del estado.",
       "tags": [
         "JavaScript",
         "React",
