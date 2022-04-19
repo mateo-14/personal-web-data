@@ -28,7 +28,7 @@
     },
     {
       "name": "Simple Chat",
-      "description": "Chat simple en tiempo real. Realizado con React y Node.js, utilizando WebSockets para el transporte de los mensajes.",
+      "description": "Chat simple en tiempo real. Realizado con React y Node.js, utilizando WebSockets para el transporte de los mensajes y Redux para el manejo del estado de los chats y mensajes en el lado del cliente.",
       "tags": [
         "JavaScript",
         "React",
