@@ -7,7 +7,7 @@ Actualmente, sigo aprendiendo de forma autodidacta y busco dedicarme profesional
 
 ## Proyectos
 
-- **[Clon Instagram (React + Node.js + Express + Prisma + PostgreSQL + TypeScript + JavaScript + CSS)](https://velvety-pavlova-68ffe7.netlify.app/)**
+- **[Clon Instagram (React + Node.js + Express + Prisma + PostgreSQL + TypeScript + JavaScript + CSS)](https://instagramclon.netlify.app/)**
 - **[Web personal (React + Next.js + Tailwind)](https://mateoledesma.vercel.app/)**
 - **[Realtime Chat (React + Node.js + Websockets + CSS)](https://mateo-14.github.io/react-node-chat-frontend/)**
 - **[Alkemy Challenge (React + Next.js + Node.js)](https://sad-hoover-6129f3.netlify.app/login)**
