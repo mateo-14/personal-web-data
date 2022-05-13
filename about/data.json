@@ -1,7 +1,7 @@
 {
   "heading": "Un poco de mí...",
-  "subheading": "Full Stack Developer (JavaScript 💛 + React + Node.js + Next.js)",
-  "text": "Hola 👋🏻. Me llamo Mateo, tengo 21 años y soy desarrollador especializado en JavaScript.\nConocí la programación en 2015 gracias a un videojuego, y desde ese momento me mantuve aprendiendo e investigando todo lo relacionado con el desarrollo de software; la programación cambió mi forma de pensar y aumentó mi curiosidad.\nDesde que comencé con todo esto transité por distintas áreas y lenguajes de programación (Lua, C#, Dart, Flutter, Python, Java, C++, Go). En 2019 decidí entrar en el desarrollo Web, donde aprendí HTML, CSS, JavaScript, TypeScript, Node.js, React, Vue y Angular. Finalmente me establecí en el stack React + Next.js (Frontend) y Node.js (Backend).\n🔍💼 Actualmente estoy en busca de un empleo como desarrollador web Backend y/o Frontend, donde pueda aportar mis conocimientos, afrontar desafíos y continuar aprendiendo.",
+  "subheading": "Full Stack Developer",
+  "text": "Hola 👋🏻. Me llamo Mateo Ledesma, tengo 21 años, vivo en Argentina y soy desarrollador Full Stack. Desarrollo principalmente con HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB y PostgreSQL. También me encanta investigar y aprender otras tecnologías y lenguajes, por lo que tengo conocimientos en Vue, Svelte, C#, Lua, Dart, Flutter, Go y Java.",
   "assetsURL": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/assets",
   "skills": [
     {
