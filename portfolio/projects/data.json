@@ -23,7 +23,10 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/instagram/instagram2.png"
       ],
       "link": "https://instagramclon.netlify.app/",
-      "repo": "https://github.com/mateo-14/instagram-clon-frontend",
+      "repos": [
+        { "url": "https://github.com/mateo-14/instagram-clon-frontend", "name": "Frontend Repo" },
+        { "url": "https://github.com/mateo-14/instagram-clon-backend", "name": "Backend Repo" }
+      ],
       "featured": true
     },
     {
@@ -45,7 +48,10 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/chat/chat.jpeg"
       ],
       "link": "https://mateo-14.github.io/react-node-chat-frontend/",
-      "repo": "https://github.com/mateo-14/react-node-chat-backend"
+      "repos": [
+        { "url": "https://github.com/mateo-14/react-node-chat-frontend", "name": "Frontend Repo" },
+        { "url": "https://github.com/mateo-14/react-node-chat-backend", "name": "Backend Repo" }
+      ]
     },
     {
       "name": "rlgo.store",
@@ -66,7 +72,10 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
       ],
       "link": "https://rlgo.store",
-      "repo": "https://github.com/mateo-14/rlcr-frontend",
+      "repos": [
+        { "url": "https://github.com/mateo-14/rlcr-frontend", "name": "Frontend Repo" },
+        { "url": "https://github.com/mateo-14/rlcr-backend", "name": "Backend Repo" }
+      ],
       "featured": true
     },
     {
@@ -76,7 +85,7 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/alkemy-challenge/alkemy-challenge.jpeg"
       ],
       "link": "https://sad-hoover-6129f3.netlify.app",
-      "repo": "https://github.com/mateo-14/alkemy-fullstack-challenge",
+      "repos": [{ "url": "https://github.com/mateo-14/alkemy-fullstack-challenge" }],
       "tags": [
         "JavaScript",
         "React",
@@ -89,7 +98,7 @@
         "Tailwindcss",
         "Axios"
       ]
-        },
+    },
     {
       "name": "Web personal",
       "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, un formulario de contacto y una sección con algunos de mis proyectos realizados.",
@@ -98,7 +107,7 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
       ],
       "link": "https://mateoledesma.vercel.app",
-      "repo": "https://github.com/mateo-14/me",
+      "repos": [{ "url": "https://github.com/mateo-14/me" }],
       "featured": true
     },
     {
@@ -109,7 +118,7 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rest-countries/rest-countries_1.jpeg"
       ],
       "link": "https://mateo-14.github.io/react-rest-countries",
-      "repo": "https://github.com/mateo-14/react-rest-countries"
+      "repos": [{ "url": "https://github.com/mateo-14/react-rest-countries" }]
     },
     {
       "name": "ParanaDev",
@@ -119,7 +128,7 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/paranadev/paranadev.jpeg"
       ],
       "link": "https://nifty-pare-e70c12.netlify.app",
-      "repo": "https://github.com/mateo-14/paranadev"
+      "repos": [{ "url": "https://github.com/mateo-14/paranadev" }]
     },
     {
       "name": "Weather APP",
@@ -129,7 +138,7 @@
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/weather-app/weather-app_1.jpeg"
       ],
       "link": "https://mateo-14.github.io/clima",
-      "repo": "https://github.com/mateo-14/clima"
+      "repos": [{ "url": "https://github.com/mateo-14/clima" }]
     }
   ]
 }
