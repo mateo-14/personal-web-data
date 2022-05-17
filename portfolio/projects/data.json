@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Instagram Clon",
-      "description": "Clon de la versión web de Instagram. Utiliza React en el Frontend, Node.js en el Backend. También se utilizó React Query para manejar el estado de la aplicación, el cual se cachea y actualiza constantemente. Debido a que gran parte del estado proviene del Backend opté por usar React Query antes que una librería como Redux para el manejo del estado.",
+      "description": "Clon de la versión web de Instagram. El Frontend fue hecho con React, se utilizó React Query para el manejo de la cache y del estado; mientras que el Backend fue hecho con Node.js, Express y TypeScript.",
       "tags": [
         "JavaScript",
         "React",
@@ -15,9 +15,9 @@
         "Express",
         "TypeScript",
         "PostgreSQL",
-        "Prisma ORM",
+        "Prisma",
         "React Router",
-        "Heroku"
+        "Supabase"
       ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/instagram/instagram2.png"
@@ -39,8 +39,7 @@
         "WebSockets",
         "JWT",
         "Node.js",
-        "Express",
-        "Heroku"
+        "Express"
       ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/chat/chat.jpeg"
@@ -50,7 +49,7 @@
     },
     {
       "name": "rlgo.store",
-      "description": "Demo App de un servicio para venta y compra de créditos para un videojuego.\nCuenta con una autenticación usando la API de Discord y JWT para almacenar la sesión en el cliente. Utiliza como DB Firebase e incluye un bot de Discord que confirma los pedidos y notifica a los administradores.",
+      "description": "Demo App de un servicio para venta y compra de créditos para un videojuego.\nCuenta con una autenticación usando la API de Discord y JWT para almacenar la sesión en el cliente. Utiliza como Firebase e incluye un bot de Discord que confirma los pedidos y notifica a los administradores.",
       "tags": [
         "React",
         "Next.js",
@@ -61,8 +60,7 @@
         "Axios",
         "Express",
         "Node.js",
-        "JWT",
-        "Heroku"
+        "JWT"
       ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
@@ -89,20 +87,19 @@
         "Supertest",
         "TDD",
         "Tailwindcss",
-        "Axios",
-        "Heroku"
-      ],
-      "featured": true
-    },
+        "Axios"
+      ]
+        },
     {
       "name": "Web personal",
-      "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, una sección con mis habilidades técnicas, un formulario de contacto y una página con algunos de mis proyectos realizados.",
+      "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, un formulario de contacto y una sección con algunos de mis proyectos realizados.",
       "tags": ["JavaScript", "React", "Next.js", "Tailwindcss", "Axios"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
       ],
       "link": "https://mateoledesma.vercel.app",
-      "repo": "https://github.com/mateo-14/me"
+      "repo": "https://github.com/mateo-14/me",
+      "featured": true
     },
     {
       "name": "REST Countries Frontend",
