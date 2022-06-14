@@ -31,10 +31,11 @@ También busco tener un nivel de inglés avanzado para tener más oportunidades.
 ## Idiomas
 
 - Español: Nativo
-- Inglés: B1 (Actualmente estudiando)
+- Inglés: A2 (Actualmente estudiando)
 
 ## Formación
 
 - 2021: Tecnicatura Universitaria en Programación en UTN Paraná.
 - 2021: Aceleración Full Stack JavaScript (React + Node.js + Scrum) en Alkemy.
+- 2021: Bootcamp Java y SQL i2t.
 - 2013 - 2018: Bachiller en Ciencias Naturales Escuela Secundaria N°21 "Arturo Jauretche".
