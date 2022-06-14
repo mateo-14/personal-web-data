@@ -4,24 +4,18 @@
   "text": "Hola 👋🏻. Me llamo Mateo Ledesma, tengo 21 años, vivo en Argentina y soy desarrollador Full Stack. Me encanta investigar y aprender tecnologías y lenguajes nuevos.\nDesarrollo principalmente con HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB y PostgreSQL. También tengo conocimientos en otros lenguajes como C#, Go y Java.",
   "assetsURL": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/assets",
   "skills": [
-    {
-      "name": "JavaScript",
-      "icon": "javascript.svg",
-      "progress": 85
-    },
-    { "name": "Node.js", "icon": "node.svg", "progress": 80 },
-    { "name": "React", "icon": "react.svg", "progress": 80 },
-    { "name": "Next.js", "icon": "next.svg", "progress": 80 },
-    { "name": "TypeScript", "icon": "typescript.svg", "progress": 75 },
-    { "name": "HTML", "icon": "html.svg", "progress": 80 },
-    { "name": "CSS", "icon": "css.svg", "progress": 70 },
-    { "name": "C# y .NET", "icon": "csharp.svg", "progress": 75 },
-    { "name": "Git", "icon": "git.svg", "progress": 40 },
-    {
-      "name": "DBs y ORMs (MongoDB, PostgreSQL, MySQL, SQLite, Sequelize, Prisma)",
-      "icon": "db.svg",
-      "progress": 60
-    }
+    "Javascript",
+    "Node.js",
+    "React",
+    "Next.js",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Go",
+    "C# .NET",
+    "Java",
+    "Git",
+    "Base de datos SQL Y NoSQL"
   ],
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }
