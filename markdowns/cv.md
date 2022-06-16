@@ -1,6 +1,6 @@
 ## Sobre mí
 
-Soy una persona muy curiosa, independiente, detallista y responsable. Me encanta aprender, ayudar a los demás y trabajar en equipo.
+Soy una persona muy curiosa, autodidacta, detallista y responsable. Me encanta aprender, ayudar a los demás y trabajar en equipo.
 
 Comencé a programar en el año 2015, y desde el 2019 me mantengo aprendiendo desarrollo web.
 Actualmente, sigo aprendiendo de forma autodidacta y busco dedicarme profesionalmente al desarrollo web.
