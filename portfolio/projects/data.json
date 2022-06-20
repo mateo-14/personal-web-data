@@ -119,26 +119,6 @@
       ],
       "link": "https://mateo-14.github.io/react-rest-countries",
       "repos": [{ "url": "https://github.com/mateo-14/react-rest-countries" }]
-    },
-    {
-      "name": "ParanaDev",
-      "description": "Landing Page demo de ParanaDev, una startup para ofrecer servicios de desarrollo web y de software.",
-      "tags": ["HTML", "CSS", "JavaScript", "Webpack", "Babel", "SASS"],
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/paranadev/paranadev.jpeg"
-      ],
-      "link": "https://nifty-pare-e70c12.netlify.app",
-      "repos": [{ "url": "https://github.com/mateo-14/paranadev" }]
-    },
-    {
-      "name": "Weather APP",
-      "description": "App para ver el tiempo utilizando OpenWeather API.\nMuestra el tiempo de tu ubicación y cuenta con un buscador de ciudades.",
-      "tags": ["JavaScript", "Vue", "Vuetify"],
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/weather-app/weather-app_1.jpeg"
-      ],
-      "link": "https://mateo-14.github.io/clima",
-      "repos": [{ "url": "https://github.com/mateo-14/clima" }]
     }
   ]
 }
