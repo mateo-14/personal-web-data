@@ -1,41 +1,62 @@
-## Sobre mí
+# Mateo Ledesma
 
-Soy una persona muy curiosa, autodidacta, detallista y responsable. Me encanta aprender, ayudar a los demás y trabajar en equipo.
+_Full Stack Developer Jr._
 
-Comencé a programar en el año 2015, y desde el 2019 me mantengo aprendiendo desarrollo web.
-Actualmente, sigo aprendiendo de forma autodidacta y busco dedicarme profesionalmente al desarrollo web.
+📍_Paraná, Entre Ríos, Argentina_
 
-## Proyectos
+[Linkedin](https://www.linkedin.com/in/mateo-ledesma 'https://www.linkedin.com/in/mateo-ledesma') _-_ [Web](https://mateoledesma.vercel.app 'https://mateoledesma.vercel.app/') _-_ [GitHub](https://github.com/mateo-14 'https://github.com/mateo-14') _-_ [Email](mailto:mateo.14.ledesma@gmail.com 'mateo.14.ledesma@gmail.com') _-_ [Celular](https://wa.me/5493435047916 '+54 9 343 5047916')
 
-- **[Clon Instagram (React + Node.js + Express + Prisma + PostgreSQL + TypeScript + JavaScript + CSS)](https://instagramclon.netlify.app/)**
-- **[Web personal (React + Next.js + Tailwind)](https://mateoledesma.vercel.app/)**
-- **[Realtime Chat (React + Node.js + Websockets + CSS)](https://mateo-14.github.io/react-node-chat-frontend/)**
-- **[Alkemy Challenge (React + Next.js + Node.js)](https://sad-hoover-6129f3.netlify.app/login)**
-- **[REST Countries Frontend (React + CSS)](https://mateo-14.github.io/react-rest-countries/)**
-- **[RLGO Store (Next.js + Node.js + Typescript + Tailwind)](https://rlgo.store/)**
-- **[ParanáDev Landing Page (HTML + CSS + JavaScript)](https://nifty-pare-e70c12.netlify.app/)**
+<br/>
+
+## 🧑🏻‍💻 Sobre mí
+
+Mi nombre es Mateo, tengo 21 años y soy Desarrollador Jr. Soy una persona muy curiosa, autodidacta, detallista y responsable. Me encanta aprender, ayudar a los demás y trabajar en equipo.
+
+Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web.
+
+🔍💼 Actualmente estoy en busca de mi primer empleo como desarrollador web Backend y/o Frontend, donde pueda aportar mis conocimientos, afrontar desafíos y continuar aprendiendo.
+
+<br/>
+
+## ℹ️ Habilidades
+- Javascript
+- Node.js
+- React
+- Next.js
+- Express
+- REST API
+- TypeScript
+- HTML
+- CSS
+- Java
+- Go
+- C# y .NET
+- Git
+- Scrum
+- Base de datos SQL Y NoSQL
+
+<br/>
+
+## 📂 Proyectos
+
+- **[Clon Instagram](https://instagramclon.netlify.app/)**
+- **[Web personal](https://mateoledesma.vercel.app/)**
+- **[Realtime Chat](https://mateo-14.github.io/react-node-chat-frontend/)**
+- **[Alkemy Challenge](https://sad-hoover-6129f3.netlify.app/login)**
 - **[Ver más...](https://mateoledesma.vercel.app/projects)**
 
-## Experiencia
+<br/>
 
-- 2019 - Actualidad: Desarrollo web en proyectos personales **[(https://mateoledesma.vercel.app/proyectos)](https://mateoledesma.vercel.app/projects)**
-- 2021: Aceleración Full Stack JavaScript (React + Node.js + Scrum) en Alkemy.
-- 2020 - 2021: Desarrollador freelance.
-
-## Objetivos
-
-Mi principal objetivo es conseguir un empleo como desarrollador web (Frontend y/o Backend), donde pueda aportar mis conocimientos e ideas, ayudar a los demás y seguir mejorando mis habilidades.
-
-También busco tener un nivel de inglés avanzado para tener más oportunidades. 
-
-## Idiomas
+## 🗣️ Idiomas
 
 - Español: Nativo
-- Inglés: A2 (Actualmente estudiando)
+- Inglés: A2
 
-## Formación
+<br/>
 
-- 2021: Tecnicatura Universitaria en Programación en UTN Paraná.
-- 2021: Aceleración Full Stack JavaScript (React + Node.js + Scrum) en Alkemy.
-- 2021: Bootcamp Java y SQL i2t.
-- 2013 - 2018: Bachiller en Ciencias Naturales Escuela Secundaria N°21 "Arturo Jauretche".
+## 📚 Formación
+- Inglés en Step English Language Center _(2022 - Actualmente)_
+- Autodidacta, me mantengo aprendiendo programación con la ayuda de Internet _(2015 -  Actualmente)_
+- Tecnicatura Universitaria en Programación en UTN Paraná _(2021 - 2021)_
+- Aceleración Full Stack JavaScript (React + Node.js + Scrum) en Alkemy _(2021 - 2022)_
+- Bootcamp Java y SQL en i2t _(2021 - 2021)_
