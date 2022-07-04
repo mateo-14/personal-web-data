@@ -28,8 +28,9 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 - TypeScript
 - HTML
 - CSS
-- Java
 - Go
+- Python
+- Java
 - C# y .NET
 - Git
 - Scrum
