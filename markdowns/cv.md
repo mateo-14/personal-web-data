@@ -1,12 +1,19 @@
+<div class="cv-header">
+<img src="https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg" alt="Profile" class="cv-profile-img"></img>
+
+<div>
+
 # Mateo Ledesma
 
 _Full Stack Developer Jr._
 
-_📍Paraná, Entre Ríos, Argentina_
+📍 _Paraná, Entre Ríos, Argentina_
 
 [Linkedin](https://www.linkedin.com/in/mateo-ledesma 'https://www.linkedin.com/in/mateo-ledesma') _-_ [Web](https://mateoledesma.vercel.app 'https://mateoledesma.vercel.app/') _-_ [GitHub](https://github.com/mateo-14 'https://github.com/mateo-14') _-_ [Email](mailto:mateo.14.ledesma@gmail.com 'mateo.14.ledesma@gmail.com') _-_ [WhatsApp](https://wa.me/5493435047916 '+54 9 343 5047916')
 
-<br/>
+</div>
+
+</div>
 
 ## 🧑🏻‍💻 Sobre mí
 
@@ -19,6 +26,7 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 <br/>
 
 ## ℹ️ Habilidades
+
 - Javascript
 - Node.js
 - React
@@ -56,8 +64,9 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 <br/>
 
 ## 📚 Formación
+
 - Inglés en Step English Language Center _(2022 - Actualmente)_
-- Autodidacta, me mantengo aprendiendo programación con la ayuda de Internet _(2015 -  Actualmente)_
+- Autodidacta, me mantengo aprendiendo programación con la ayuda de Internet _(2015 - Actualmente)_
 - Tecnicatura Universitaria en Programación en UTN Paraná _(2021 - 2021)_
 - Aceleración Full Stack JavaScript (React + Node.js + Scrum) en Alkemy _(2021 - 2022)_
 - Bootcamp Java y SQL en i2t _(2021 - 2021)_
