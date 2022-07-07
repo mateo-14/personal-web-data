@@ -36,7 +36,6 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 - Git
 - Scrum
 - Go
-- Python
 - Java
 - C# .NET
 - Base de datos SQL Y NoSQL

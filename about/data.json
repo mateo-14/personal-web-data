@@ -1,21 +1,6 @@
 {
   "heading": "Un poco de mí...",
   "subheading": "Full Stack Developer",
-  "text": "Hola 👋🏻. Me llamo Mateo Ledesma, tengo 21 años, vivo en Argentina y soy desarrollador Full Stack. Me encanta investigar y aprender tecnologías y lenguajes nuevos.\nDesarrollo principalmente con HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB y PostgreSQL. También tengo conocimientos en otros lenguajes como Python, Go, C# y Java.",
-  "assetsURL": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/assets",
-  "skills": [
-    "Javascript",
-    "Node.js",
-    "React",
-    "Next.js",
-    "TypeScript",
-    "HTML",
-    "CSS",
-    "Go",
-    "C# y .NET",
-    "Java",
-    "Git",
-    "Base de datos SQL Y NoSQL"
-  ],
+  "text": "Hola 👋🏻. Me llamo Mateo Ledesma, tengo 21 años, vivo en Argentina y soy desarrollador Full Stack. Me encanta investigar y aprender tecnologías y lenguajes nuevos.\nDesarrollo principalmente con HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB y PostgreSQL. También tengo conocimientos en otros lenguajes como Go, C# y Java.",
   "profileImg": "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg"
 }

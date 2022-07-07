@@ -1,6 +1,0 @@
-{
-  "links": [
-    { "url": "%HOST%/linkedin", "text": "LinkedIn" },
-    { "url": "%HOST%/github", "text": "GitHub" }
-  ]
-}
