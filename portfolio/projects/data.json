@@ -1,6 +1,27 @@
 {
   "projects": [
     {
+      "name": "ASP.NET Core TODO REST API",
+      "subheading": "ASP.NET Core",
+      "description": "Simple CRUD API REST hecha para aprender desarrollo backend con ASP.NET Core. Permite crear, editar, borrar y consultar Todos.",
+      "tags": [
+        "C#",
+        ".NET",
+        "ASP.NET Core",
+        "Heroku",
+        "PostgreSQL",
+        "Backend",
+        "Swagger",
+        "OpenAPI",
+        "REST API",
+        "Entity Framework"
+      ],
+      "link": "https://asp-net-core-todo.herokuapp.com",
+      "repos": [
+        { "url": "https://github.com/mateo-14/asp.net-core-todo-api", "name": "Repositorio" }
+      ]
+    },
+    {
       "name": "Instagram Clon",
       "description": "Clon de la versión web de Instagram. El Frontend fue hecho con React, se utilizó React Query para el manejo de la cache y del estado; mientras que el Backend fue hecho con Node.js, Express y TypeScript.",
       "tags": [
@@ -17,7 +38,8 @@
         "PostgreSQL",
         "Prisma",
         "React Router",
-        "Supabase"
+        "Supabase",
+        "FullStack"
       ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/instagram/instagram2.png"
@@ -42,7 +64,8 @@
         "WebSockets",
         "JWT",
         "Node.js",
-        "Express"
+        "Express",
+        "FullStack"
       ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/chat/chat.jpeg"
@@ -66,7 +89,8 @@
         "Axios",
         "Express",
         "Node.js",
-        "JWT"
+        "JWT",
+        "FullStack"
       ],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
@@ -96,13 +120,14 @@
         "Supertest",
         "TDD",
         "Tailwindcss",
-        "Axios"
+        "Axios",
+        "FullStack"
       ]
     },
     {
       "name": "Web personal",
       "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, un formulario de contacto y una sección con algunos de mis proyectos realizados.",
-      "tags": ["JavaScript", "React", "Next.js", "Tailwindcss", "Axios"],
+      "tags": ["JavaScript", "React", "Next.js", "Tailwindcss", "Axios", "Frontend"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
       ],
@@ -113,7 +138,7 @@
     {
       "name": "REST Countries Frontend",
       "description": "Challenge de frontendmentor.io.\nConsume la API restcountries.com y muestra las banderas de los países. Esta web cuenta con un buscador, un filtro por regiones y un theme switcher (dark mode y light mode)\nUsa React Query para cachear los resultados.",
-      "tags": ["React", "CSS", "React Router", "React Query", "JavaScript", "Axios"],
+      "tags": ["React", "CSS", "React Router", "React Query", "JavaScript", "Axios", "Frontend"],
       "images": [
         "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rest-countries/rest-countries_1.jpeg"
       ],
