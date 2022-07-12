@@ -21,7 +21,7 @@ Mi nombre es Mateo, tengo 21 años y soy Desarrollador Jr. Soy una persona muy c
 
 Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web de manera autodidacta.
 
-🔍💼 Actualmente estoy en busca de mi primer empleo como desarrollador web Backend y/o Frontend, donde pueda aportar mis conocimientos, afrontar desafíos y continuar aprendiendo.
+🔍💼 Actualmente estoy en busca de mi primer empleo como desarrollador FullStack (Frontend y/o Backend), donde pueda aportar mis conocimientos, afrontar desafíos y continuar aprendiendo.
 
 <br/>
 
@@ -32,12 +32,13 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 - React
 - Next.js
 - Node.js
+- C# .NET
+- ASP.NET Core
 - Express.js
 - Git
 - Scrum
 - Go
 - Java
-- C# .NET
 - Base de datos SQL Y NoSQL
 
 <br/>
