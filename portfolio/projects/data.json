@@ -1,6 +1,29 @@
 {
   "projects": [
     {
+      "name": "ASP.NET Core Auth API",
+      "subheading": "ASP.NET Core",
+      "description": "Auth API REST hecha para aprender desarrollo backend con ASP.NET Core y JWT. Permite registrarse, logearse y administrar roles.",
+      "tags": [
+        "C#",
+        ".NET",
+        "ASP.NET Core",
+        "Heroku",
+        "PostgreSQL",
+        "Backend",
+        "Swagger",
+        "OpenAPI",
+        "REST API",
+        "ASP.NET Core Identity",
+        "Entity Framework",
+        "JWT"
+      ],
+      "link": "https://asp-net-core-auth-api.herokuapp.com",
+      "repos": [
+        { "url": "https://github.com/mateo-14/asp.net-core-auth-api", "name": "Repositorio" }
+      ]
+    },
+    {
       "name": "ASP.NET Core TODO REST API",
       "subheading": "ASP.NET Core",
       "description": "Simple CRUD API REST hecha para aprender desarrollo backend con ASP.NET Core. Permite crear, editar, borrar y consultar Todos.",
