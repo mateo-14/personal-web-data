@@ -36,10 +36,9 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 - Node.js
 - Express.js
 - Git
-- Scrum
+- Base de datos SQL Y NoSQL
 - Go
 - Java
-- Base de datos SQL Y NoSQL
 
 <br/>
 
@@ -62,7 +61,7 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 
 ## 📚 Formación
 
-- Inglés en Step English Language Center _(2022 - Actualmente)_
+- Inglés en Step English Language Center _(2022 - Actualidad)_
 - Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(2021 - 2022)_
 - Tecnicatura Universitaria en Programación en UTN Paraná _(2021 - 2021)_
 - Bootcamp Java, Scrum y SQL en i2t _(2021 - 2021)_
