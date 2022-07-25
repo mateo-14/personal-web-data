@@ -19,7 +19,7 @@ _Full Stack Developer Jr._
 
 Mi nombre es Mateo, tengo 21 años y soy desarrollador Full Stack. Soy una persona muy curiosa, autodidacta, detallista y responsable. Me gusta investigar y probar nuevas tecnologías, ayudar a los demás y trabajar en equipo.
 
-Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web de manera autodidacta. Actualmente me dedico al desarrollo web Full Stack.
+Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web de manera autodidacta. Actualmente, me dedico al desarrollo web Full Stack.
 
 <br/>
 
