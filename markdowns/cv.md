@@ -17,11 +17,9 @@ _Full Stack Developer Jr._
 
 ## 🧑🏻‍💻 Sobre mí
 
-Mi nombre es Mateo, tengo 21 años y soy Desarrollador Jr. Soy una persona muy curiosa, autodidacta, detallista y responsable. Me encanta aprender, ayudar a los demás y trabajar en equipo.
+Mi nombre es Mateo, tengo 21 años y soy Desarrollador Jr. Soy una persona muy curiosa, autodidacta, detallista y responsable. Me gusta investigar y probar nuevas tecnologías, ayudar a los demás y trabajar en equipo.
 
-Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web de manera autodidacta.
-
-🔍💼 Actualmente estoy en busca de mi primer empleo como desarrollador FullStack (Frontend y/o Backend), donde pueda aportar mis conocimientos, afrontar desafíos y seguir aprendiendo.
+Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web de manera autodidacta. 
 
 <br/>
 
@@ -39,6 +37,12 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 - Base de datos SQL Y NoSQL
 - Go
 - Java
+
+<br/>
+
+## 💼 Experiencia
+- Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(2021 - 2022)_
+- Desarrollador Web Freelance _(2020 - 2021)_
 
 <br/>
 
@@ -62,6 +66,5 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 ## 📚 Formación
 
 - Inglés en Step English Language Center _(2022 - Actualidad)_
-- Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(2021 - 2022)_
 - Tecnicatura Universitaria en Programación en UTN Paraná _(2021 - 2021)_
 - Bootcamp Java, Scrum y SQL en i2t _(2021 - 2021)_
