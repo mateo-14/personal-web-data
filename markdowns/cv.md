@@ -5,7 +5,7 @@
 
 # Mateo Ledesma
 
-_Full Stack Developer Jr._
+_Desarrollador Full Stack_
 
 📍 _Paraná, Entre Ríos, Argentina_
 
