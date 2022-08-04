@@ -52,7 +52,6 @@ Soy bastante curioso, me encanta investigar y aprender de manera autodidacta. Me
 - **[Clon Instagram](https://instagramclon.netlify.app/)**
 - **[Web personal](https://mateoledesma.vercel.app/)**
 - **[Realtime Chat](https://mateo-14.github.io/react-node-chat-frontend/)**
-- **[Alkemy Challenge](https://sad-hoover-6129f3.netlify.app/login)**
 - **[Ver más...](https://mateoledesma.vercel.app/projects)**
 
 <br/>
