@@ -25,23 +25,23 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 
 ## ℹ️ Habilidades
 
-- C# .NET
-- ASP.NET Core
+- Desarrollo de Backend y Frontend
+- C# .NET y ASP.NET Core
 - Javascript y TypeScript
-- HTML y CSS
+- HTML, CSS y Tailwind
 - React
 - Next.js
 - Node.js
-- Express.js
 - Git
-- Base de datos SQL Y NoSQL
+- Base de datos SQL Y NoSQL (PostgreSQL, MongoDB, MySQL)
 - Go
 - Java
 
 <br/>
 
 ## 💼 Experiencia
-- Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(2021 - 2022)_
+- Frontend Developer en [GreenFlame](https://www.linkedin.com/company/green-flame-creative-studio 'https://www.linkedin.com/company/green-flame-creative-studio') _(Jul. 2022 - Actualmente)_
+- Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(Dic. 2021 - En. 2022)_
 - Desarrollador Web Freelance _(2020 - 2021)_
 
 <br/>
@@ -65,6 +65,6 @@ Comencé a programar en el año 2015 y desde 2019 me mantengo aprendiendo desarr
 
 ## 📚 Formación
 
-- Inglés en Step English Language Center _(2022 - Actualidad)_
+- Inglés en Step English Language Center _(2022 - Actualmente)_
 - Tecnicatura Universitaria en Programación en UTN Paraná _(2021 - 2021)_
 - Bootcamp Java, Scrum y SQL en i2t _(2021 - 2021)_
