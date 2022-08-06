@@ -23,17 +23,19 @@ Me llamo Mateo y soy desarrollador Full Stack. Soy una persona bastante curiosa,
 
 ## ℹ️ Habilidades
 
-- Desarrollo de Backend y Frontend
-- C# .NET y ASP.NET Core
-- Javascript y TypeScript
-- HTML, CSS y Tailwind
+- JavaScript
 - React
 - Next.js
-- Node.js
+- C# .NET
+- ASP.NET
+- HTML y CSS
 - Git
-- Base de datos SQL Y NoSQL (PostgreSQL, MongoDB, MySQL)
+- TypeScript
 - Go
 - Java
+- Node.js
+- SQL
+- DB (PostgreSQL, MongoDB, MySQL)
 
 <br/>
 
