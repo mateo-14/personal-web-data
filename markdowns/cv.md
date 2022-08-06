@@ -38,8 +38,8 @@ Me llamo Mateo y soy desarrollador Full Stack. Soy una persona bastante curiosa,
 <br/>
 
 ## 💼 Experiencia
-- Frontend Developer en [GreenFlame](https://www.linkedin.com/company/green-flame-creative-studio 'https://www.linkedin.com/company/green-flame-creative-studio') _(Jul. 2022 - Actualmente)_
-- Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(Dic. 2021 - En. 2022)_
+- Frontend Developer en [GreenFlame](https://www.linkedin.com/company/green-flame-creative-studio 'https://www.linkedin.com/company/green-flame-creative-studio') _(jul. 2022 - actualidad)_
+- Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(dic. 2021 - ene. 2022)_
 - Desarrollador Web Freelance _(2020 - 2021)_
 
 <br/>
@@ -62,6 +62,6 @@ Me llamo Mateo y soy desarrollador Full Stack. Soy una persona bastante curiosa,
 
 ## 📚 Formación
 
-- Inglés en Step English Language Center _(2022 - Actualmente)_
+- Inglés en Step English Language Center _(2022 - actualidad)_
 - Tecnicatura Universitaria en Programación en UTN Paraná _(2021 - 2021)_
 - Bootcamp Java, Scrum y SQL en i2t _(2021 - 2021)_
