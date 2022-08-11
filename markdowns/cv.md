@@ -17,7 +17,7 @@ _Desarrollador Full Stack_
 
 ## 🧑🏻‍💻 Sobre mí
 
-Me llamo Mateo y soy desarrollador Full Stack. Soy una persona bastante curiosa, me encanta desarollar, investigar y aprender de manera autodidacta todo lo relacionado con la tecnología e informática, especialmente en el área del desarrollo Web.
+Me llamo Mateo y me dedico al desarrollo web Full Stack. Soy bastante curioso, me encanta programar, desarrollar, investigar y aprender de manera autodidacta todo lo relacionado con la tecnología e informática, especialmente en el área del desarrollo Web. Aprendí a programar por mi cuenta en el año 2015 y desde 2019 me mantengo aprendiendo desarollo web.
 
 <br/>
 
