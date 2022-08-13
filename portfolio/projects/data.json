@@ -97,31 +97,6 @@
       "repos": [
         { "url": "https://github.com/mateo-14/react-node-chat-frontend", "name": "Frontend Repo" },
         { "url": "https://github.com/mateo-14/react-node-chat-backend", "name": "Backend Repo" }
-      ]
-    },
-    {
-      "name": "rlgo.store",
-      "description": "Demo App de un servicio para venta y compra de créditos para un videojuego.\nCuenta con una autenticación usando la API de Discord y JWT para almacenar la sesión en el cliente. Utiliza como Firebase e incluye un bot de Discord que confirma los pedidos y notifica a los administradores.",
-      "tags": [
-        "React",
-        "Next.js",
-        "Tailwindcss",
-        "TypeScript",
-        "JavaScript",
-        "Firebase",
-        "Axios",
-        "Express",
-        "Node.js",
-        "JWT",
-        "FullStack"
-      ],
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/rlgo/rlgo.store_1.jpeg"
-      ],
-      "link": "https://rlgo.store",
-      "repos": [
-        { "url": "https://github.com/mateo-14/rlcr-frontend", "name": "Frontend Repo" },
-        { "url": "https://github.com/mateo-14/rlcr-backend", "name": "Backend Repo" }
       ],
       "featured": true
     },
