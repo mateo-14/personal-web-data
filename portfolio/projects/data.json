@@ -1,50 +1,6 @@
 {
   "projects": [
     {
-      "name": "ASP.NET Core Auth API",
-      "subheading": "ASP.NET Core",
-      "description": "Auth API REST hecha para aprender desarrollo backend con ASP.NET Core y JWT. Permite registrarse, logearse y administrar roles.",
-      "tags": [
-        "C#",
-        ".NET",
-        "ASP.NET Core",
-        "Heroku",
-        "PostgreSQL",
-        "Backend",
-        "Swagger",
-        "OpenAPI",
-        "REST API",
-        "ASP.NET Core Identity",
-        "Entity Framework",
-        "JWT"
-      ],
-      "link": "https://asp-net-core-auth-api.herokuapp.com",
-      "repos": [
-        { "url": "https://github.com/mateo-14/asp.net-core-auth-api", "name": "Repositorio" }
-      ]
-    },
-    {
-      "name": "ASP.NET Core TODO REST API",
-      "subheading": "ASP.NET Core",
-      "description": "Simple CRUD API REST hecha para aprender desarrollo backend con ASP.NET Core. Permite crear, editar, borrar y consultar Todos.",
-      "tags": [
-        "C#",
-        ".NET",
-        "ASP.NET Core",
-        "Heroku",
-        "PostgreSQL",
-        "Backend",
-        "Swagger",
-        "OpenAPI",
-        "REST API",
-        "Entity Framework"
-      ],
-      "link": "https://asp-net-core-todo.herokuapp.com",
-      "repos": [
-        { "url": "https://github.com/mateo-14/asp.net-core-todo-api", "name": "Repositorio" }
-      ]
-    },
-    {
       "name": "Instagram Clon",
       "description": "Clon de la versión web de Instagram. El Frontend fue hecho con React, se utilizó React Query para el manejo de la cache y del estado; mientras que el Backend fue hecho con Node.js, Express y TypeScript.",
       "tags": [
@@ -99,28 +55,6 @@
         { "url": "https://github.com/mateo-14/react-node-chat-backend", "name": "Backend Repo" }
       ],
       "featured": true
-    },
-    {
-      "name": "Alkemy Full Stack challenge",
-      "description": "Challenge con el cuál ingresé a la aceleración de Alkemy. Es una app full stack para control de gastos, fue realizada con React, Node y Sequelize.\nEl backend cuenta con tests sobre las APIs, que fueron desarrolladas utilizando TDD con Jest y supertest.",
-      "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/alkemy-challenge/alkemy-challenge.jpeg"
-      ],
-      "link": "https://sad-hoover-6129f3.netlify.app",
-      "repos": [{ "url": "https://github.com/mateo-14/alkemy-fullstack-challenge" }],
-      "tags": [
-        "JavaScript",
-        "React",
-        "Node.js",
-        "Express",
-        "Sequelize",
-        "Jest",
-        "Supertest",
-        "TDD",
-        "Tailwindcss",
-        "Axios",
-        "FullStack"
-      ]
     },
     {
       "name": "Web personal",
