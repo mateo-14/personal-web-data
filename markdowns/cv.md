@@ -21,21 +21,16 @@ Me llamo Mateo y me dedico al desarrollo web Full Stack. Soy bastante curioso, m
 
 <br/>
 
-## ℹ️ Habilidades
+##  Tecnologías
 
 - JavaScript
+- TypeScript
 - React
 - Next.js
-- C# .NET
-- ASP.NET
-- HTML y CSS
-- Git
-- TypeScript
-- Go
-- Java
 - Node.js
-- SQL
-- DB (PostgreSQL, MongoDB, MySQL)
+- HTML y CSS
+- C# .NET
+- Go
 
 <br/>
 
