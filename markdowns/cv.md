@@ -21,7 +21,7 @@ Me llamo Mateo y me dedico al desarrollo web Full Stack. Soy bastante curioso, m
 
 <br/>
 
-##  Tecnologías
+## 💻 Tecnologías
 
 - JavaScript
 - TypeScript
