@@ -61,7 +61,7 @@
       "description": "Web de uso personal con contenido dinámico, creada específicamente para presentarme y mostrar mis conocimientos.\nContiene una presentación breve, un formulario de contacto y una sección con algunos de mis proyectos realizados.",
       "tags": ["JavaScript", "React", "Next.js", "Tailwindcss", "Axios", "Frontend"],
       "images": [
-        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.jpeg"
+        "https://raw.githubusercontent.com/mateo-14/personal-web-data/main/portfolio/projects/images/me/me_1.png"
       ],
       "link": "https://mateoledesma.vercel.app",
       "repos": [{ "url": "https://github.com/mateo-14/me" }],
