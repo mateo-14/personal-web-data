@@ -1,8 +1,3 @@
-<div class="cv-header">
-<img src="https://raw.githubusercontent.com/mateo-14/personal-web-data/main/about/profile.jpg" alt="Profile" class="cv-profile-img"></img>
-
-<div>
-
 # Mateo Ledesma
 
 _Desarrollador Full Stack_
