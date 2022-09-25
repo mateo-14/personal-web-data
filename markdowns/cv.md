@@ -6,9 +6,6 @@ _Desarrollador Full Stack_
 
 [Linkedin](https://www.linkedin.com/in/mateo-ledesma 'https://www.linkedin.com/in/mateo-ledesma') _-_ [Web](https://mateoledesma.vercel.app 'https://mateoledesma.vercel.app/') _-_ [GitHub](https://github.com/mateo-14 'https://github.com/mateo-14') _-_ [Email](mailto:mateo.14.ledesma@gmail.com 'mateo.14.ledesma@gmail.com') _-_ [WhatsApp](https://wa.me/5493435047916 '+54 9 343 5047916')
 
-</div>
-
-</div>
 
 ## 🧑🏻‍💻 Sobre mí
 
