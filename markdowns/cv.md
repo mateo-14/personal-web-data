@@ -10,7 +10,7 @@ _Desarrollador Web_
 
 ## 🧑🏻‍💻 Sobre mí
 
-Me llamo Mateo y me dedico al desarrollo web, especializado en el Frontend. Me encanta investigar y aprender todo lo relacionado con la tecnología e informática. Empecé a programar de manera autodidacta en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web.
+Me llamo Mateo y me dedico al desarrollo web, especialmente del lado del Frontend. Me encanta investigar y aprender todo lo relacionado con la tecnología e informática. Empecé a programar de manera autodidacta en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web.
 
 <br/>
 
