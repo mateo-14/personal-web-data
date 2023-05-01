@@ -38,7 +38,6 @@ que me ha permitido crecer y evolucionar como profesional.
 
 ## 💼 Experiencia
 - Frontend Developer en [GreenFlame](https://www.linkedin.com/company/green-flame-creative-studio 'https://www.linkedin.com/company/green-flame-creative-studio') _(jul. 2022 - actualidad)_
-- Aceleración Full Stack JavaScript (React + Node.js + Scrum + Git) en Alkemy _(dic. 2021 - ene. 2022)_
 - Desarrollador Web Freelance _(2020 - 2021)_
 
 <br/>
