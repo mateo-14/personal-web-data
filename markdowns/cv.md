@@ -1,6 +1,6 @@
 # Mateo Ledesma
 
-_Desarrollador Web_
+_Full Stack Developer_
 
 📍 _Paraná, Entre Ríos, Argentina_
 
@@ -10,11 +10,15 @@ _Desarrollador Web_
 
 ## 🧑🏻‍💻 Sobre mí
 
-Me llamo Mateo y me dedico al desarrollo web, especialmente del lado del Frontend. Me encanta investigar y aprender todo lo relacionado con la tecnología e informática. Empecé a programar de manera autodidacta en el año 2015 y desde 2019 me mantengo aprendiendo desarrollo web.
+Me llamo Mateo Ledesma, tengo 22 años y actualmente trabajo como Frontend Developer a
+tiempo completo (Full Time). Soy desarrollador full stack desde el año 2019 y comencé a
+aprender a programar de manera autodidacta en el año 2015. Desde entonces, he estado
+enfocado en perfeccionar mis habilidades y conocimientos en el campo de la programación, lo
+que me ha permitido crecer y evolucionar como profesional.
 
 <br/>
 
-## 💻 Tecnologías
+## 💻 Habilidades
 
 <div class="tech-list">
 
@@ -24,8 +28,9 @@ Me llamo Mateo y me dedico al desarrollo web, especialmente del lado del Fronten
 - Next.js
 - Node.js
 - HTML y CSS
-- C# .NET
+- C#
 - Go
+- SQL
 
 </div>
 
